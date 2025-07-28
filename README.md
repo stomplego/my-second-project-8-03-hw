@@ -26,6 +26,8 @@
 
 `Приведите ответ в свободной форме........`
 
+```
+
 1) sudo -s 
 2) apt install postgresql
 3) apt update
@@ -41,11 +43,10 @@
 13) systemctl enable zabbix-server zabbix-agent apache2
 14) зашёл на http://мой_ip/zabbix
 
-```
 
 `При необходимости прикрепитe сюда скриншоты
 
-![вход в админку zabbix](./images/admin_zabbix.PNG)
+![вход в админку Zabbix](images/admin_zabbix.PNG)
 
 
 ---
@@ -68,7 +69,7 @@
 
 `При необходимости прикрепитe сюда скриншоты
 
-![раздел Configuration > Hosts](./images/Configuration_hosts.PNG)
-![Логи 1 машины](./images/logs_zabbix_agent_1vm.PNG)
-![Логи 2 машины ](./images/logs_zabbix_agent_2vm.PNG)
-![раздел Monitoring > Latest data](./images/Monitoring_Latest_data.PNG)
+![Раздел конфигурации хостов](images/Configuration_hosts.PNG)
+![Логи первой машины](images/logs_zabbix_agent_1vm.PNG)
+![Логи второй машины](images/logs_zabbix_agent_2vm.PNG)
+![Мониторинг последних данных](images/Monitoring_Latest_data.PNG)
